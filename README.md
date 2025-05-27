@@ -43,6 +43,13 @@ pip install notebook
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
+### Creating a Virtual Environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
 ### 3. Launch Jupyter
 
 ```bash
