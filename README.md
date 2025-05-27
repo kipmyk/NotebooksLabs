@@ -24,3 +24,29 @@ This repo offers practical notebooks designed to guide you from beginner to pro.
   - matplotlib
   - seaborn
   - scikit-learn
+
+---
+
+## 📦 Installation
+
+To run the notebooks, make sure you have Python 3.8+ installed.
+
+### 1. Install Jupyter Notebook
+
+```bash
+pip install notebook
+```
+
+### 2. Install Required Libraries
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+### 3. Launch Jupyter
+
+```bash
+jupyter notebook
+```
+
+This will open Jupyter in your browser. From there, navigate to any notebook and start learning.
